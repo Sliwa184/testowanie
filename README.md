@@ -3,3 +3,7 @@
 
 
 Nowy akapit i informacjami o projekcie
+
+Kolejny commit
+
+i jeszcze jeden...
